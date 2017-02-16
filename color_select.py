@@ -29,4 +29,4 @@ plt.imshow(color_select)
 # Display the image                 
 plt.imshow(color_select)
 
-mpimg.imsave("test-after.jpg", color_select)
+mpimg.imsave("test-color-select.jpg", color_select)
